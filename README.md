@@ -1,7 +1,18 @@
 - 👋 Hi, I’m @ggreg
 
-I work as a software engineer and also like to code for fun. My first computer was an Atari 800.
-I wrote my first program in Basic on a [Thomson MO6](https://en.wikipedia.org/wiki/Thomson_MO6) computer and enjoyed programming in [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) in the 80's.
+I work as a software engineer and also like to code for fun. I live in California with my wife, two kids, and two cats.
+When not at a computer I enjoy running, rock climbing, playing music, reading about math and science, cooking, and spending time with my family.
+
+- 👀 I’m interested in systems programming: database implementation, compilers, distributed systems, workflow engines, and operating systems. I like to understand how hardware works and be mindful about mechanial sympathy. I enjoy making efficient and performant systems.
+- 🌱 I’m currently learning Rust.
+- 📫 How to reach me:
+  - https://github.com/ggreg
+  - https://twitter.com/ggregl
+  - https://www.linkedin.com/in/gregleclercq/
+
+Historically my main programming languages have been Python and C/C++. I've done a decent amount of programming in Go, TypeScript, Java, and Haskell. I'm learning Rust and writing a bunch of tools, a compiler (implementing https://craftinginterpreters.com/ in Rust), and a database.
+
+My first computer was an Atari 800. I wrote my first program in Basic on a [Thomson MO6](https://en.wikipedia.org/wiki/Thomson_MO6) computer and enjoyed programming in [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) in the 80's.
 Then I got an Atari ST and discovered more complex games and programs. I was interested in indie game and demos.
 
 I started my career in the early 2,000s after the dotcom crash. My first job was on network and computer security at a large ISP. I had the opportunity to work on platforms that served tens of millions of users. I dove into network protocols, how security devices work, and their limitations. I enjoyed writing tools to better test network security devices such as firewalls, Intrusion Protection Systems (IPS), and Web application Firewalls (WAF). This was the time when attacks started to shift from network services to client applications: browsers, email clients, and desktop apps such as Acrobat reader. I've worked on host detection and prevention systems to address that. Then I ended up working on Security Information and Event Management (SIEM). It was still early and these technologies were emerging. I didn't realize at the time how many more opportunities existed to build better security systems. My official title was "architect". I wrote many tools and enjoyed reading the source code of open source software we used but I wanted to build something. I left to join a small company that was building one of the first public cloud.
@@ -15,15 +26,3 @@ I wanted more ownership and was attracted by the startup world. I wanted to buil
 In 2015, I moved to the US and joined the [Presto](https://prestodb.io) (also known as [Trino](https://trino.io) after Presto's creators left) team at Meta. It was a fantastic experience. I worked at a immense scale and was part of building one of the largest and fastest data infrastructure in the world.
 
 I now work on observability at Airtable.
-
-Historically my main programming languages have been Python and C/C++. I've done a decent amount of programming in Go, TypeScript, Java, and Haskell. I'm learning Rust and writing a bunch of tools, a compiler (implementing https://craftinginterpreters.com/ in Rust), and a database.
-
-When not at a computer I enjoy running, rock climbing, paying music, reading about math and science, cooking, and spending time with my family.
-
-- 👀 I’m interested in systems programming: database implementation, compilers, distributed systems, workflow engines, and operating systems. I like to understand how hardware works and be mindful about mechanial sympathy. I enjoy making efficient and performant systems.
-- 🌱 I’m currently learning Rust.
-- 📫 How to reach me:
-  - https://github.com/ggreg
-  - https://twitter.com/ggregl
-  - https://www.linkedin.com/in/gregleclercq/
-
