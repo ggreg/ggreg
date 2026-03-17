@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ggreg
 
 I work as a software engineer and also like to code for fun. I live in California with my wife, two kids, and two cats.
-When not at a computer I enjoy running, rock climbing, playing music, reading about math and science, cooking, and spending time with my family.
+When not at a computer I enjoy snowboarding (inbound and backcountry on my splitboard), running, rock climbing, playing the guitar, reading about math and science, cooking, and spending time with my family. I also enjoy traveling.
 
 - 👀 I’m interested in systems programming: database implementation, compilers, distributed systems, workflow engines, and operating systems. I like to understand how hardware works and be mindful about mechanial sympathy. I enjoy making efficient and performant systems.
 - 🌱 I’m currently learning Rust.
