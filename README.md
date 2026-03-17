@@ -25,4 +25,6 @@ I wanted more ownership and was attracted by the startup world. I wanted to buil
 
 In 2015, I moved to the US and joined the [Presto](https://prestodb.io) (also known as [Trino](https://trino.io) after Presto's creators left) team at Meta. It was a fantastic experience. I worked at a immense scale and was part of building one of the largest and fastest data infrastructure in the world.
 
-I now work on observability at Airtable.
+After 4 years at Meta, I worked 3 years on reliability, scalability, and observability at Airtable.
+
+I am now leading the scalability team at Roblox after joining in January 2023. we're buidling intelligent systems that leverage AI/ML to scale Roblox and make it more efficient.
